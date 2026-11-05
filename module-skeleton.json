@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-commerce-customers-flutter",
+  "capabilityKey": "planned:ecommerce:commerce-customers",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_commerce_customers_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/commerce-customers.md",
+  "presentationPlan": "projects/ecommerce/flutter/commerce-customers.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
